@@ -1,6 +1,10 @@
 # PDF-merger
 
-this merger has:
+This merger helps you merge "all" PDF files in your folder into one file.
 
-1. check if the folder exists in current directory
-2. check if the file name already exists in folder
+# It also can help you check:
+
+1. if the user-entered folder exists in current directory
+2. if any pdf files exist in the folder
+3. if new file name already exists in the folder
+4. if the entered new file name is valid
